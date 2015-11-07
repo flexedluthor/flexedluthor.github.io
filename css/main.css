@@ -1,0 +1,41 @@
+body {
+    background-color: white;
+    /* background-color: #b0c4de; */
+}
+
+p{
+    font-family: 'Calibri';
+    font-size: 20px;
+    text-align: justify;
+}
+
+h2 {
+    font-family: 'Open Sans';  
+    font-size: 30px;
+}
+
+h1 {
+    font-family: 'Open Sans';  
+    font-size: 45px;
+}
+
+.center-block {
+    float: none !important
+}
+
+#corner {
+    border-radius: 5px;
+}
+
+.img-border {
+    margin-bottom: 20px;
+}
+
+.img-hover:hover {
+    opacity: 0.8;
+}
+
+.btn-border{
+    margin-top: 2.5px;
+    margin-bottom: 2.5px;
+}
